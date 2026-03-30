@@ -1,4 +1,4 @@
-@@ -1,28 +1,22 @@
+
 # Open Source Audit: Python
 
 **Student:** Ananya Sharma  
