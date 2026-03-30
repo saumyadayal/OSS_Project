@@ -1,8 +1,8 @@
 
 # Open Source Audit: Python
 
-**Student**:** Saumya Dayal **
-**Course**:** Open Source Software (NGMC) ** 
+**Student:Saumya Dayal **
+**CourseOpen Source Software (NGMC) ** 
 **Software Audited:** Python (PSF License)
 
 ---
