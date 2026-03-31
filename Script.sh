@@ -3,7 +3,7 @@
 # Script 1: System Identity Report
 # Course: Open Source Software
 # --- Variables ---
-STUDENT_NAME="Ananya Sharma"
+STUDENT_NAME="Saumya Dayal"
 SOFTWARE_CHOICE="Python"
 
 # --- System info ---
